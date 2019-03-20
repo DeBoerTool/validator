@@ -16,11 +16,18 @@ composer require dbt/validator
 composer test
 ```
 
+### With Coverage
+
+```bash
+composer coverage
+```
+
 ### Static Analysis
 
 ```bash
 composer stat
 ```
 
-## Etc.Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+## Etc.
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
