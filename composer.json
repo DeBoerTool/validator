@@ -16,11 +16,10 @@
         }
     ],
     "require": {
-        "php": "^7.1",
-        "dbt/phpunit-runner": "^0.1.2"
+        "php": "^7.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.0",
+        "dbt/phpunit-runner": "~1.0.0",
         "vimeo/psalm": "^3.1"
     },
     "autoload": {
